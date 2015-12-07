@@ -1,0 +1,14 @@
+{
+  "name": "sauce-pass",
+  "version": "1.0.0",
+  "description": "Simply pass or fail a sauce job from commandline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "saucelabs": "^1.0.1"
+  }
+}
